@@ -22,4 +22,4 @@
   <li>Recurso iniciais de REACT, como UseState, UseEffect, UseRef</li>
 </ul>
 
-<p>Créditos ao canal do youtube <span>DevClub | Programação</span> do professor Rodolfo Mori pelaa aulas e orientação no desenvolvimento do projeto</p>
+<p>Créditos ao canal do youtube <span>DevClub | Programação</span> do professor Rodolfo Mori pelas aulas e orientação no desenvolvimento do projeto</p>
