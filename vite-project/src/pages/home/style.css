@@ -1,0 +1,77 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  padding-top: 100px;
+  color: white
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.7rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 1.3rem;
+  border-radius: 10px;
+  background-color: #2e2d4e;
+  max-width: 50%;
+  width: 500px;
+  margin-bottom: 2rem;
+}
+
+form input {
+  padding: .6rem;
+  border: none;
+  border-radius: 30px;
+}
+
+form button {
+  border-radius: 30px;
+  padding: .8rem;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: .9rem;
+  outline: none;
+}
+
+form button:hover {
+  opacity: 0.8;
+}
+
+.card {
+  display: flex;
+  justify-content: space-between;
+  background-color:#2e2d4e;
+  margin: .5rem;
+  padding: .5rem;
+  width: 500px;
+  max-width: 50%;
+  border-radius: 10px;
+}
+
+.card p {
+  margin: .3rem;
+  font-size: 1.1rem;
+  font-weight: bold;
+}
+
+.card p span {
+  font-weight: 300;
+}
+
+.card button {
+  background-color: transparent;
+  border: none;
+  margin-right: .5rem;
+  cursor: pointer;
+}
+
+.card button:hover {
+  opacity: .5;
+}
