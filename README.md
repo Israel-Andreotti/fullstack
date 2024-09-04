@@ -15,8 +15,8 @@
 
 <h3>Conceitos estudados</h3>
 <ul>
-  <li>CRUD<li>
-  <li>Criação e Consumo de API<li>
+  <li>CRUD</li>
+  <li>Criação e Consumo de API</li>
   <li>Gerenciamento de pacotes com NPM</li>
   <li>Integração com banco de dados não relacional (mongoDB)</li>
   <li>Recurso iniciais de REACT, como UseState, UseEffect, UseRef</li>
